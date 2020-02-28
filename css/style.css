@@ -1,0 +1,30 @@
+.whatsapp{
+	float: right;
+	margin-right: 5px;
+	bottom: 10%;
+	font-size: 43px;
+	padding-left: 93.5%;
+	padding-top: 37%;
+	position: fixed;
+	  top: 50%;
+  	-webkit-transform: translateY(-50%);
+  	-ms-transform: translateY(-50%);
+	  transform: translateY(-50%);
+	  
+}
+
+.whatsapp a{
+	background-color:lightgreen;
+
+}
+.whatsapp a:hover{
+	background-color: green;
+}
+
+.fa fa-whatsapp{
+	font-weight: 60%;
+	font-size: 20px;
+}
+.fa fa-whatsapp:hover{
+	color: green;
+}
